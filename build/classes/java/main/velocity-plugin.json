@@ -1,0 +1,1 @@
+{"id":"xcoordinator","name":"xCoordinator","version":"1.0-SNAPSHOT","description":"A coordinating plugin.","authors":["tuso"],"dependencies":[],"main":"pl.tuso.coordinator.XCoordinator"}
